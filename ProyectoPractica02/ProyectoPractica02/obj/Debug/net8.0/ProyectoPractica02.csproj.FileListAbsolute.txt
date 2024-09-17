@@ -1,0 +1,82 @@
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\appsettings.Development.json
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\appsettings.json
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\ProyectoPractica02.exe
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\ProyectoPractica02.deps.json
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\ProyectoPractica02.runtimeconfig.json
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\ProyectoPractica02.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\ProyectoPractica02.pdb
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\LibreriaDLL.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\LibreriaDLL.pdb
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\ProyectoPractica02.csproj.AssemblyReference.cache
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\ProyectoPractica02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\ProyectoPractica02.AssemblyInfoInputs.cache
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\ProyectoPractica02.AssemblyInfo.cs
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\ProyectoPractica02.csproj.CoreCompileInputs.cache
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\ProyectoPractica02.MvcApplicationPartsAssemblyInfo.cs
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\ProyectoPractica02.MvcApplicationPartsAssemblyInfo.cache
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\ProyectoPractica02.sourcelink.json
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\staticwebassets.build.json
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\staticwebassets.development.json
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoPractica02.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoPractica02.props
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoPractica02.props
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoPractica02.props
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\scopedcss\bundle\ProyectoPractica02.styles.css
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\Proyecto.B869E8AB.Up2Date
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\ProyectoPractica02.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\refint\ProyectoPractica02.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\ProyectoPractica02.pdb
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\ProyectoPractica02.genruntimeconfig.cache
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\ref\ProyectoPractica02.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\appsettings.Development.json
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\appsettings.json
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\ProyectoPractica02.exe
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\ProyectoPractica02.deps.json
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\ProyectoPractica02.runtimeconfig.json
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\ProyectoPractica02.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\ProyectoPractica02.pdb
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\LibreriaDLL.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\bin\Debug\net8.0\LibreriaDLL.pdb
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\ProyectoPractica02.csproj.AssemblyReference.cache
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\ProyectoPractica02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\ProyectoPractica02.AssemblyInfoInputs.cache
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\ProyectoPractica02.AssemblyInfo.cs
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\ProyectoPractica02.csproj.CoreCompileInputs.cache
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\ProyectoPractica02.MvcApplicationPartsAssemblyInfo.cs
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\ProyectoPractica02.MvcApplicationPartsAssemblyInfo.cache
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\ProyectoPractica02.sourcelink.json
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\staticwebassets.build.json
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\staticwebassets.development.json
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\staticwebassets\msbuild.ProyectoPractica02.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\staticwebassets\msbuild.build.ProyectoPractica02.props
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoPractica02.props
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProyectoPractica02.props
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\scopedcss\bundle\ProyectoPractica02.styles.css
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\Proyecto.B869E8AB.Up2Date
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\ProyectoPractica02.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\refint\ProyectoPractica02.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\ProyectoPractica02.pdb
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\ProyectoPractica02.genruntimeconfig.cache
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\ProyectoPractica02\obj\Debug\net8.0\ref\ProyectoPractica02.dll

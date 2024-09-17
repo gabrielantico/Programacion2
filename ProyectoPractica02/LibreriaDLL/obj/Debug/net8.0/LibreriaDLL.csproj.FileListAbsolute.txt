@@ -1,0 +1,26 @@
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\LibreriaDLL\bin\Debug\net8.0\LibreriaDLL.deps.json
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\LibreriaDLL\bin\Debug\net8.0\LibreriaDLL.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\LibreriaDLL\bin\Debug\net8.0\LibreriaDLL.pdb
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\LibreriaDLL\obj\Debug\net8.0\LibreriaDLL.csproj.AssemblyReference.cache
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\LibreriaDLL\obj\Debug\net8.0\LibreriaDLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\LibreriaDLL\obj\Debug\net8.0\LibreriaDLL.AssemblyInfoInputs.cache
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\LibreriaDLL\obj\Debug\net8.0\LibreriaDLL.AssemblyInfo.cs
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\LibreriaDLL\obj\Debug\net8.0\LibreriaDLL.csproj.CoreCompileInputs.cache
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\LibreriaDLL\obj\Debug\net8.0\LibreriaDLL.sourcelink.json
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\LibreriaDLL\obj\Debug\net8.0\LibreriaDLL.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\LibreriaDLL\obj\Debug\net8.0\refint\LibreriaDLL.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\LibreriaDLL\obj\Debug\net8.0\LibreriaDLL.pdb
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1\Repositorio-1\ProyectoPractica02\LibreriaDLL\obj\Debug\net8.0\ref\LibreriaDLL.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\LibreriaDLL\bin\Debug\net8.0\LibreriaDLL.deps.json
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\LibreriaDLL\bin\Debug\net8.0\LibreriaDLL.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\LibreriaDLL\bin\Debug\net8.0\LibreriaDLL.pdb
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\LibreriaDLL\obj\Debug\net8.0\LibreriaDLL.csproj.AssemblyReference.cache
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\LibreriaDLL\obj\Debug\net8.0\LibreriaDLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\LibreriaDLL\obj\Debug\net8.0\LibreriaDLL.AssemblyInfoInputs.cache
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\LibreriaDLL\obj\Debug\net8.0\LibreriaDLL.AssemblyInfo.cs
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\LibreriaDLL\obj\Debug\net8.0\LibreriaDLL.csproj.CoreCompileInputs.cache
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\LibreriaDLL\obj\Debug\net8.0\LibreriaDLL.sourcelink.json
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\LibreriaDLL\obj\Debug\net8.0\LibreriaDLL.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\LibreriaDLL\obj\Debug\net8.0\refint\LibreriaDLL.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\LibreriaDLL\obj\Debug\net8.0\LibreriaDLL.pdb
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica02\LibreriaDLL\obj\Debug\net8.0\ref\LibreriaDLL.dll

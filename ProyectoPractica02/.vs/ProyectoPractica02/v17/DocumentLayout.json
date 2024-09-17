@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10611001-6C5D-4890-B94C-F50A4CB99645}|ProyectoPractica02\\ProyectoPractica02.csproj|d:\\gabi\\usuarios\\facultad\\2do cuatrimestre\\programaci\u00F3n ii\\proyectos\\repositorio 1 local\\programacion2\\proyectopractica02\\proyectopractica02\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10611001-6C5D-4890-B94C-F50A4CB99645}|ProyectoPractica02\\ProyectoPractica02.csproj|solutionrelative:proyectopractica02\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D7CF56C-491B-4E9C-BD2D-880E529C1AB8}|LibreriaDLL\\LibreriaDLL.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica02\\libreriadll\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D7CF56C-491B-4E9C-BD2D-880E529C1AB8}|LibreriaDLL\\LibreriaDLL.csproj|solutionrelative:libreriadll\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D7CF56C-491B-4E9C-BD2D-880E529C1AB8}|LibreriaDLL\\LibreriaDLL.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica02\\libreriadll\\data\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D7CF56C-491B-4E9C-BD2D-880E529C1AB8}|LibreriaDLL\\LibreriaDLL.csproj|solutionrelative:libreriadll\\data\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D7CF56C-491B-4E9C-BD2D-880E529C1AB8}|LibreriaDLL\\LibreriaDLL.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica02\\libreriadll\\data\\iaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D7CF56C-491B-4E9C-BD2D-880E529C1AB8}|LibreriaDLL\\LibreriaDLL.csproj|solutionrelative:libreriadll\\data\\iaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D7CF56C-491B-4E9C-BD2D-880E529C1AB8}|LibreriaDLL\\LibreriaDLL.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica02\\libreriadll\\domain\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D7CF56C-491B-4E9C-BD2D-880E529C1AB8}|LibreriaDLL\\LibreriaDLL.csproj|solutionrelative:libreriadll\\domain\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D7CF56C-491B-4E9C-BD2D-880E529C1AB8}|LibreriaDLL\\LibreriaDLL.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica02\\libreriadll\\business\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D7CF56C-491B-4E9C-BD2D-880E529C1AB8}|LibreriaDLL\\LibreriaDLL.csproj|solutionrelative:libreriadll\\business\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAplicacion.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica02\\LibreriaDLL\\Data\\IAplicacion.cs",
+              "RelativeDocumentMoniker": "LibreriaDLL\\Data\\IAplicacion.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica02\\LibreriaDLL\\Data\\IAplicacion.cs",
+              "RelativeToolTip": "LibreriaDLL\\Data\\IAplicacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T21:30:09.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica02\\LibreriaDLL\\Domain\\Articulo.cs",
+              "RelativeDocumentMoniker": "LibreriaDLL\\Domain\\Articulo.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica02\\LibreriaDLL\\Domain\\Articulo.cs",
+              "RelativeToolTip": "LibreriaDLL\\Domain\\Articulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T02:56:26.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica02\\LibreriaDLL\\Business\\Servicio.cs",
+              "RelativeDocumentMoniker": "LibreriaDLL\\Business\\Servicio.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica02\\LibreriaDLL\\Business\\Servicio.cs",
+              "RelativeToolTip": "LibreriaDLL\\Business\\Servicio.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T02:46:37.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticuloRepository.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica02\\LibreriaDLL\\Data\\ArticuloRepository.cs",
+              "RelativeDocumentMoniker": "LibreriaDLL\\Data\\ArticuloRepository.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica02\\LibreriaDLL\\Data\\ArticuloRepository.cs",
+              "RelativeToolTip": "LibreriaDLL\\Data\\ArticuloRepository.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAIwC8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T01:43:29.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica02\\LibreriaDLL\\Data\\DataHelper.cs",
+              "RelativeDocumentMoniker": "LibreriaDLL\\Data\\DataHelper.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica02\\LibreriaDLL\\Data\\DataHelper.cs",
+              "RelativeToolTip": "LibreriaDLL\\Data\\DataHelper.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T01:43:15.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticuloController.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica02\\ProyectoPractica02\\Controllers\\ArticuloController.cs",
+              "RelativeDocumentMoniker": "ProyectoPractica02\\Controllers\\ArticuloController.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica02\\ProyectoPractica02\\Controllers\\ArticuloController.cs",
+              "RelativeToolTip": "ProyectoPractica02\\Controllers\\ArticuloController.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAIwJUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T01:41:05.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
