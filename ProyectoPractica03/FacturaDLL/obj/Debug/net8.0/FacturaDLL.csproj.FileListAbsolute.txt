@@ -1,0 +1,13 @@
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica03\FacturaDLL\bin\Debug\net8.0\FacturaDLL.deps.json
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica03\FacturaDLL\bin\Debug\net8.0\FacturaDLL.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica03\FacturaDLL\bin\Debug\net8.0\FacturaDLL.pdb
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica03\FacturaDLL\obj\Debug\net8.0\FacturaDLL.csproj.AssemblyReference.cache
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica03\FacturaDLL\obj\Debug\net8.0\FacturaDLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica03\FacturaDLL\obj\Debug\net8.0\FacturaDLL.AssemblyInfoInputs.cache
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica03\FacturaDLL\obj\Debug\net8.0\FacturaDLL.AssemblyInfo.cs
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica03\FacturaDLL\obj\Debug\net8.0\FacturaDLL.csproj.CoreCompileInputs.cache
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica03\FacturaDLL\obj\Debug\net8.0\FacturaDLL.sourcelink.json
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica03\FacturaDLL\obj\Debug\net8.0\FacturaDLL.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica03\FacturaDLL\obj\Debug\net8.0\refint\FacturaDLL.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica03\FacturaDLL\obj\Debug\net8.0\FacturaDLL.pdb
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ProyectoPractica03\FacturaDLL\obj\Debug\net8.0\ref\FacturaDLL.dll

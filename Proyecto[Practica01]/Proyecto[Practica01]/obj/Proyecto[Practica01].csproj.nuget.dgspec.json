@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programación II\\Proyectos\\Repositorio 1\\Problema1.5\\Proyecto[Practica01]\\Proyecto[Practica01]\\Proyecto[Practica01].csproj": {}
+    "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programación II\\Proyectos\\Repositorio 1 Local\\Programacion2\\Proyecto[Practica01]\\Proyecto[Practica01]\\Proyecto[Practica01].csproj": {}
   },
   "projects": {
-    "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programación II\\Proyectos\\Repositorio 1\\Problema1.5\\Proyecto[Practica01]\\Proyecto[Practica01]\\Proyecto[Practica01].csproj": {
+    "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programación II\\Proyectos\\Repositorio 1 Local\\Programacion2\\Proyecto[Practica01]\\Proyecto[Practica01]\\Proyecto[Practica01].csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programación II\\Proyectos\\Repositorio 1\\Problema1.5\\Proyecto[Practica01]\\Proyecto[Practica01]\\Proyecto[Practica01].csproj",
+        "projectUniqueName": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programación II\\Proyectos\\Repositorio 1 Local\\Programacion2\\Proyecto[Practica01]\\Proyecto[Practica01]\\Proyecto[Practica01].csproj",
         "projectName": "Proyecto[Practica01]",
-        "projectPath": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programación II\\Proyectos\\Repositorio 1\\Problema1.5\\Proyecto[Practica01]\\Proyecto[Practica01]\\Proyecto[Practica01].csproj",
+        "projectPath": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programación II\\Proyectos\\Repositorio 1 Local\\Programacion2\\Proyecto[Practica01]\\Proyecto[Practica01]\\Proyecto[Practica01].csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programación II\\Proyectos\\Repositorio 1\\Problema1.5\\Proyecto[Practica01]\\Proyecto[Practica01]\\obj\\",
+        "outputPath": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programación II\\Proyectos\\Repositorio 1 Local\\Programacion2\\Proyecto[Practica01]\\Proyecto[Practica01]\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

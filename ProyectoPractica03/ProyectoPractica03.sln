@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoPractica03", "ProyectoPractica03\ProyectoPractica03.csproj", "{E3ED22BB-21C0-4577-8C6C-B18B15A51881}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacturaDLL", "FacturaDLL\FacturaDLL.csproj", "{781504D1-E90C-4682-B3A0-5D93AEF79FFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3ED22BB-21C0-4577-8C6C-B18B15A51881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3ED22BB-21C0-4577-8C6C-B18B15A51881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3ED22BB-21C0-4577-8C6C-B18B15A51881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3ED22BB-21C0-4577-8C6C-B18B15A51881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{781504D1-E90C-4682-B3A0-5D93AEF79FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{781504D1-E90C-4682-B3A0-5D93AEF79FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{781504D1-E90C-4682-B3A0-5D93AEF79FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{781504D1-E90C-4682-B3A0-5D93AEF79FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04C04F3C-6C4F-4CF4-9903-B5F012F28275}
+	EndGlobalSection
+EndGlobal

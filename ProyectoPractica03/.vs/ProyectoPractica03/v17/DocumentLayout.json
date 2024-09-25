@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3ED22BB-21C0-4577-8C6C-B18B15A51881}|ProyectoPractica03\\ProyectoPractica03.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\proyectopractica03\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3ED22BB-21C0-4577-8C6C-B18B15A51881}|ProyectoPractica03\\ProyectoPractica03.csproj|solutionrelative:proyectopractica03\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781504D1-E90C-4682-B3A0-5D93AEF79FFC}|FacturaDLL\\FacturaDLL.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\facturadll\\domain\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781504D1-E90C-4682-B3A0-5D93AEF79FFC}|FacturaDLL\\FacturaDLL.csproj|solutionrelative:facturadll\\domain\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781504D1-E90C-4682-B3A0-5D93AEF79FFC}|FacturaDLL\\FacturaDLL.csproj|d:\\gabi\\usuarios\\facultad\\2do cuatrimestre\\programaci\u00F3n ii\\proyectos\\repositorio 1 local\\programacion2\\proyectopractica03\\facturadll\\business\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781504D1-E90C-4682-B3A0-5D93AEF79FFC}|FacturaDLL\\FacturaDLL.csproj|solutionrelative:facturadll\\business\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781504D1-E90C-4682-B3A0-5D93AEF79FFC}|FacturaDLL\\FacturaDLL.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\facturadll\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781504D1-E90C-4682-B3A0-5D93AEF79FFC}|FacturaDLL\\FacturaDLL.csproj|solutionrelative:facturadll\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781504D1-E90C-4682-B3A0-5D93AEF79FFC}|FacturaDLL\\FacturaDLL.csproj|d:\\gabi\\usuarios\\facultad\\2do cuatrimestre\\programaci\u00F3n ii\\proyectos\\repositorio 1 local\\programacion2\\proyectopractica03\\facturadll\\data\\repositoryfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781504D1-E90C-4682-B3A0-5D93AEF79FFC}|FacturaDLL\\FacturaDLL.csproj|solutionrelative:facturadll\\data\\repositoryfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781504D1-E90C-4682-B3A0-5D93AEF79FFC}|FacturaDLL\\FacturaDLL.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\facturadll\\domain\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781504D1-E90C-4682-B3A0-5D93AEF79FFC}|FacturaDLL\\FacturaDLL.csproj|solutionrelative:facturadll\\domain\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781504D1-E90C-4682-B3A0-5D93AEF79FFC}|FacturaDLL\\FacturaDLL.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\facturadll\\domain\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781504D1-E90C-4682-B3A0-5D93AEF79FFC}|FacturaDLL\\FacturaDLL.csproj|solutionrelative:facturadll\\domain\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781504D1-E90C-4682-B3A0-5D93AEF79FFC}|FacturaDLL\\FacturaDLL.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\facturadll\\data\\parametro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781504D1-E90C-4682-B3A0-5D93AEF79FFC}|FacturaDLL\\FacturaDLL.csproj|solutionrelative:facturadll\\data\\parametro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781504D1-E90C-4682-B3A0-5D93AEF79FFC}|FacturaDLL\\FacturaDLL.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\facturadll\\data\\iaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781504D1-E90C-4682-B3A0-5D93AEF79FFC}|FacturaDLL\\FacturaDLL.csproj|solutionrelative:facturadll\\data\\iaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781504D1-E90C-4682-B3A0-5D93AEF79FFC}|FacturaDLL\\FacturaDLL.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\facturadll\\domain\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781504D1-E90C-4682-B3A0-5D93AEF79FFC}|FacturaDLL\\FacturaDLL.csproj|solutionrelative:facturadll\\domain\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\FacturaDLL\\Business\\Servicio.cs",
+              "RelativeDocumentMoniker": "FacturaDLL\\Business\\Servicio.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\FacturaDLL\\Business\\Servicio.cs",
+              "RelativeToolTip": "FacturaDLL\\Business\\Servicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:37:19.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Parametro.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\FacturaDLL\\Data\\Parametro.cs",
+              "RelativeDocumentMoniker": "FacturaDLL\\Data\\Parametro.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\FacturaDLL\\Data\\Parametro.cs",
+              "RelativeToolTip": "FacturaDLL\\Data\\Parametro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T02:44:17.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\FacturaDLL\\Data\\DataHelper.cs",
+              "RelativeDocumentMoniker": "FacturaDLL\\Data\\DataHelper.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\FacturaDLL\\Data\\DataHelper.cs",
+              "RelativeToolTip": "FacturaDLL\\Data\\DataHelper.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T02:37:42.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepositoryFactura.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\FacturaDLL\\Data\\RepositoryFactura.cs",
+              "RelativeDocumentMoniker": "FacturaDLL\\Data\\RepositoryFactura.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\FacturaDLL\\Data\\RepositoryFactura.cs",
+              "RelativeToolTip": "FacturaDLL\\Data\\RepositoryFactura.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAADgv0AAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T02:36:55.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\FacturaDLL\\Domain\\Articulo.cs",
+              "RelativeDocumentMoniker": "FacturaDLL\\Domain\\Articulo.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\FacturaDLL\\Domain\\Articulo.cs",
+              "RelativeToolTip": "FacturaDLL\\Domain\\Articulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T02:33:13.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormaPago.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\FacturaDLL\\Domain\\FormaPago.cs",
+              "RelativeDocumentMoniker": "FacturaDLL\\Domain\\FormaPago.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\FacturaDLL\\Domain\\FormaPago.cs",
+              "RelativeToolTip": "FacturaDLL\\Domain\\FormaPago.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T02:29:27.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetalleFactura.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\FacturaDLL\\Domain\\DetalleFactura.cs",
+              "RelativeDocumentMoniker": "FacturaDLL\\Domain\\DetalleFactura.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\FacturaDLL\\Domain\\DetalleFactura.cs",
+              "RelativeToolTip": "FacturaDLL\\Domain\\DetalleFactura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T02:29:16.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\FacturaDLL\\Domain\\Factura.cs",
+              "RelativeDocumentMoniker": "FacturaDLL\\Domain\\Factura.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\FacturaDLL\\Domain\\Factura.cs",
+              "RelativeToolTip": "FacturaDLL\\Domain\\Factura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T02:26:45.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAplicacion.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\FacturaDLL\\Data\\IAplicacion.cs",
+              "RelativeDocumentMoniker": "FacturaDLL\\Data\\IAplicacion.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\FacturaDLL\\Data\\IAplicacion.cs",
+              "RelativeToolTip": "FacturaDLL\\Data\\IAplicacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T02:25:28.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FacturaController.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\ProyectoPractica03\\Controllers\\FacturaController.cs",
+              "RelativeDocumentMoniker": "ProyectoPractica03\\Controllers\\FacturaController.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\ProyectoPractica03\\Controllers\\FacturaController.cs",
+              "RelativeToolTip": "ProyectoPractica03\\Controllers\\FacturaController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowFYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T02:22:08.135Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

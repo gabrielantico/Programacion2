@@ -1,0 +1,147 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programación II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\ProyectoPractica03\\ProyectoPractica03.csproj": {}
+  },
+  "projects": {
+    "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programación II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\FacturaDLL\\FacturaDLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programación II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\FacturaDLL\\FacturaDLL.csproj",
+        "projectName": "FacturaDLL",
+        "projectPath": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programación II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\FacturaDLL\\FacturaDLL.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programación II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\FacturaDLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programación II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\ProyectoPractica03\\ProyectoPractica03.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programación II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\ProyectoPractica03\\ProyectoPractica03.csproj",
+        "projectName": "ProyectoPractica03",
+        "projectPath": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programación II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\ProyectoPractica03\\ProyectoPractica03.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programación II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\ProyectoPractica03\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programación II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\FacturaDLL\\FacturaDLL.csproj": {
+                "projectPath": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programación II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ProyectoPractica03\\FacturaDLL\\FacturaDLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

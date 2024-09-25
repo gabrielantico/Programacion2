@@ -1,41 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Problema1.5\\Proyecto[Practica01]\\",
+  "WorkspaceRootPath": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\Proyecto[Practica01]\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B214083A-136E-43AD-BF8E-75F1267A8329}|Proyecto[Practica01]\\Proyecto[Practica01].csproj|d:\\gabi\\usuarios\\facultad\\2do cuatrimestre\\programaci\u00F3n ii\\proyectos\\repositorio 1\\problema1.5\\proyecto[practica01]\\proyecto[practica01]\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B214083A-136E-43AD-BF8E-75F1267A8329}|Proyecto[Practica01]\\Proyecto[Practica01].csproj|d:\\gabi\\usuarios\\facultad\\2do cuatrimestre\\programaci\u00F3n ii\\proyectos\\repositorio 1 local\\programacion2\\proyecto[practica01]\\proyecto[practica01]\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B214083A-136E-43AD-BF8E-75F1267A8329}|Proyecto[Practica01]\\Proyecto[Practica01].csproj|solutionrelative:proyecto[practica01]\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B214083A-136E-43AD-BF8E-75F1267A8329}|Proyecto[Practica01]\\Proyecto[Practica01].csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Problema1.5\\Proyecto[Practica01]\\proyecto[practica01]\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B214083A-136E-43AD-BF8E-75F1267A8329}|Proyecto[Practica01]\\Proyecto[Practica01].csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\Proyecto[Practica01]\\proyecto[practica01]\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B214083A-136E-43AD-BF8E-75F1267A8329}|Proyecto[Practica01]\\Proyecto[Practica01].csproj|solutionrelative:proyecto[practica01]\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B214083A-136E-43AD-BF8E-75F1267A8329}|Proyecto[Practica01]\\Proyecto[Practica01].csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Problema1.5\\Proyecto[Practica01]\\proyecto[practica01]\\domain\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B214083A-136E-43AD-BF8E-75F1267A8329}|Proyecto[Practica01]\\Proyecto[Practica01].csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\Proyecto[Practica01]\\proyecto[practica01]\\domain\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B214083A-136E-43AD-BF8E-75F1267A8329}|Proyecto[Practica01]\\Proyecto[Practica01].csproj|solutionrelative:proyecto[practica01]\\domain\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B214083A-136E-43AD-BF8E-75F1267A8329}|Proyecto[Practica01]\\Proyecto[Practica01].csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Problema1.5\\Proyecto[Practica01]\\proyecto[practica01]\\data\\registerado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B214083A-136E-43AD-BF8E-75F1267A8329}|Proyecto[Practica01]\\Proyecto[Practica01].csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\Proyecto[Practica01]\\proyecto[practica01]\\data\\registerado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B214083A-136E-43AD-BF8E-75F1267A8329}|Proyecto[Practica01]\\Proyecto[Practica01].csproj|solutionrelative:proyecto[practica01]\\data\\registerado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B214083A-136E-43AD-BF8E-75F1267A8329}|Proyecto[Practica01]\\Proyecto[Practica01].csproj|d:\\gabi\\usuarios\\facultad\\2do cuatrimestre\\programaci\u00F3n ii\\proyectos\\repositorio 1\\problema1.5\\proyecto[practica01]\\proyecto[practica01]\\domain\\billdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B214083A-136E-43AD-BF8E-75F1267A8329}|Proyecto[Practica01]\\Proyecto[Practica01].csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\Proyecto[Practica01]\\proyecto[practica01]\\domain\\billdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B214083A-136E-43AD-BF8E-75F1267A8329}|Proyecto[Practica01]\\Proyecto[Practica01].csproj|solutionrelative:proyecto[practica01]\\domain\\billdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B214083A-136E-43AD-BF8E-75F1267A8329}|Proyecto[Practica01]\\Proyecto[Practica01].csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Problema1.5\\Proyecto[Practica01]\\proyecto[practica01]\\bussines\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B214083A-136E-43AD-BF8E-75F1267A8329}|Proyecto[Practica01]\\Proyecto[Practica01].csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\Proyecto[Practica01]\\proyecto[practica01]\\bussines\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B214083A-136E-43AD-BF8E-75F1267A8329}|Proyecto[Practica01]\\Proyecto[Practica01].csproj|solutionrelative:proyecto[practica01]\\bussines\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B214083A-136E-43AD-BF8E-75F1267A8329}|Proyecto[Practica01]\\Proyecto[Practica01].csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Problema1.5\\Proyecto[Practica01]\\proyecto[practica01]\\domain\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B214083A-136E-43AD-BF8E-75F1267A8329}|Proyecto[Practica01]\\Proyecto[Practica01].csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\Proyecto[Practica01]\\proyecto[practica01]\\domain\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B214083A-136E-43AD-BF8E-75F1267A8329}|Proyecto[Practica01]\\Proyecto[Practica01].csproj|solutionrelative:proyecto[practica01]\\domain\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B214083A-136E-43AD-BF8E-75F1267A8329}|Proyecto[Practica01]\\Proyecto[Practica01].csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Problema1.5\\Proyecto[Practica01]\\proyecto[practica01]\\domain\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B214083A-136E-43AD-BF8E-75F1267A8329}|Proyecto[Practica01]\\Proyecto[Practica01].csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\Proyecto[Practica01]\\proyecto[practica01]\\domain\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B214083A-136E-43AD-BF8E-75F1267A8329}|Proyecto[Practica01]\\Proyecto[Practica01].csproj|solutionrelative:proyecto[practica01]\\domain\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B214083A-136E-43AD-BF8E-75F1267A8329}|Proyecto[Practica01]\\Proyecto[Practica01].csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Problema1.5\\Proyecto[Practica01]\\proyecto[practica01]\\data\\iregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B214083A-136E-43AD-BF8E-75F1267A8329}|Proyecto[Practica01]\\Proyecto[Practica01].csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\Proyecto[Practica01]\\proyecto[practica01]\\data\\iregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B214083A-136E-43AD-BF8E-75F1267A8329}|Proyecto[Practica01]\\Proyecto[Practica01].csproj|solutionrelative:proyecto[practica01]\\data\\iregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -52,102 +52,95 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "BillDetail.cs",
-              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Problema1.5\\Proyecto[Practica01]\\Proyecto[Practica01]\\Domain\\BillDetail.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\Proyecto[Practica01]\\Proyecto[Practica01]\\Domain\\BillDetail.cs",
               "RelativeDocumentMoniker": "Proyecto[Practica01]\\Domain\\BillDetail.cs",
-              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Problema1.5\\Proyecto[Practica01]\\Proyecto[Practica01]\\Domain\\BillDetail.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\Proyecto[Practica01]\\Proyecto[Practica01]\\Domain\\BillDetail.cs",
               "RelativeToolTip": "Proyecto[Practica01]\\Domain\\BillDetail.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T00:05:18.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-31T00:05:18.928Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Service.cs",
-              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Problema1.5\\Proyecto[Practica01]\\Proyecto[Practica01]\\Bussines\\Service.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\Proyecto[Practica01]\\Proyecto[Practica01]\\Bussines\\Service.cs",
               "RelativeDocumentMoniker": "Proyecto[Practica01]\\Bussines\\Service.cs",
-              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Problema1.5\\Proyecto[Practica01]\\Proyecto[Practica01]\\Bussines\\Service.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\Proyecto[Practica01]\\Proyecto[Practica01]\\Bussines\\Service.cs",
               "RelativeToolTip": "Proyecto[Practica01]\\Bussines\\Service.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T01:53:34.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T01:53:34.999Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "RegisterADO.cs",
-              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Problema1.5\\Proyecto[Practica01]\\Proyecto[Practica01]\\Data\\RegisterADO.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\Proyecto[Practica01]\\Proyecto[Practica01]\\Data\\RegisterADO.cs",
               "RelativeDocumentMoniker": "Proyecto[Practica01]\\Data\\RegisterADO.cs",
-              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Problema1.5\\Proyecto[Practica01]\\Proyecto[Practica01]\\Data\\RegisterADO.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\Proyecto[Practica01]\\Proyecto[Practica01]\\Data\\RegisterADO.cs",
               "RelativeToolTip": "Proyecto[Practica01]\\Data\\RegisterADO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T01:51:22.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T01:51:22.221Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Payment.cs",
-              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Problema1.5\\Proyecto[Practica01]\\Proyecto[Practica01]\\Domain\\Payment.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\Proyecto[Practica01]\\Proyecto[Practica01]\\Domain\\Payment.cs",
               "RelativeDocumentMoniker": "Proyecto[Practica01]\\Domain\\Payment.cs",
-              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Problema1.5\\Proyecto[Practica01]\\Proyecto[Practica01]\\Domain\\Payment.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\Proyecto[Practica01]\\Proyecto[Practica01]\\Domain\\Payment.cs",
               "RelativeToolTip": "Proyecto[Practica01]\\Domain\\Payment.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T01:47:39.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T01:47:39.104Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Article.cs",
-              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Problema1.5\\Proyecto[Practica01]\\Proyecto[Practica01]\\Domain\\Article.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\Proyecto[Practica01]\\Proyecto[Practica01]\\Domain\\Article.cs",
               "RelativeDocumentMoniker": "Proyecto[Practica01]\\Domain\\Article.cs",
-              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Problema1.5\\Proyecto[Practica01]\\Proyecto[Practica01]\\Domain\\Article.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\Proyecto[Practica01]\\Proyecto[Practica01]\\Domain\\Article.cs",
               "RelativeToolTip": "Proyecto[Practica01]\\Domain\\Article.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T01:45:29.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T01:45:29.835Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Bill.cs",
-              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Problema1.5\\Proyecto[Practica01]\\Proyecto[Practica01]\\Domain\\Bill.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\Proyecto[Practica01]\\Proyecto[Practica01]\\Domain\\Bill.cs",
               "RelativeDocumentMoniker": "Proyecto[Practica01]\\Domain\\Bill.cs",
-              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Problema1.5\\Proyecto[Practica01]\\Proyecto[Practica01]\\Domain\\Bill.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\Proyecto[Practica01]\\Proyecto[Practica01]\\Domain\\Bill.cs",
               "RelativeToolTip": "Proyecto[Practica01]\\Domain\\Bill.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAADwvygAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T01:43:16.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T01:43:16.394Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "IRegister.cs",
-              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Problema1.5\\Proyecto[Practica01]\\Proyecto[Practica01]\\Data\\IRegister.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\Proyecto[Practica01]\\Proyecto[Practica01]\\Data\\IRegister.cs",
               "RelativeDocumentMoniker": "Proyecto[Practica01]\\Data\\IRegister.cs",
-              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Problema1.5\\Proyecto[Practica01]\\Proyecto[Practica01]\\Data\\IRegister.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\Proyecto[Practica01]\\Proyecto[Practica01]\\Data\\IRegister.cs",
               "RelativeToolTip": "Proyecto[Practica01]\\Data\\IRegister.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T01:34:04.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T01:34:04.639Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "DataHelper.cs",
-              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Problema1.5\\Proyecto[Practica01]\\Proyecto[Practica01]\\Data\\DataHelper.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\Proyecto[Practica01]\\Proyecto[Practica01]\\Data\\DataHelper.cs",
               "RelativeDocumentMoniker": "Proyecto[Practica01]\\Data\\DataHelper.cs",
-              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Problema1.5\\Proyecto[Practica01]\\Proyecto[Practica01]\\Data\\DataHelper.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\Proyecto[Practica01]\\Proyecto[Practica01]\\Data\\DataHelper.cs",
               "RelativeToolTip": "Proyecto[Practica01]\\Data\\DataHelper.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAiwEAAAABOAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAA5wFUAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T01:20:36.093Z",
               "EditorCaption": ""
@@ -156,14 +149,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Problema1.5\\Proyecto[Practica01]\\Proyecto[Practica01]\\Program.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\Proyecto[Practica01]\\Proyecto[Practica01]\\Program.cs",
               "RelativeDocumentMoniker": "Proyecto[Practica01]\\Program.cs",
-              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1\\Problema1.5\\Proyecto[Practica01]\\Proyecto[Practica01]\\Program.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\Proyecto[Practica01]\\Proyecto[Practica01]\\Program.cs",
               "RelativeToolTip": "Proyecto[Practica01]\\Program.cs",
               "ViewState": "AQIAAEwAAAAAAAAAAAAgwFsAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T01:18:47.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T01:18:47.512Z"
             }
           ]
         }
