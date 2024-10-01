@@ -1,0 +1,15 @@
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ActividadPractica04\RepositoryDLL\bin\Debug\net8.0\RepositoryDLL.deps.json
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ActividadPractica04\RepositoryDLL\bin\Debug\net8.0\RepositoryDLL.runtimeconfig.json
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ActividadPractica04\RepositoryDLL\bin\Debug\net8.0\RepositoryDLL.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ActividadPractica04\RepositoryDLL\bin\Debug\net8.0\RepositoryDLL.pdb
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ActividadPractica04\RepositoryDLL\obj\Debug\net8.0\RepositoryDLL.csproj.AssemblyReference.cache
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ActividadPractica04\RepositoryDLL\obj\Debug\net8.0\RepositoryDLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ActividadPractica04\RepositoryDLL\obj\Debug\net8.0\RepositoryDLL.AssemblyInfoInputs.cache
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ActividadPractica04\RepositoryDLL\obj\Debug\net8.0\RepositoryDLL.AssemblyInfo.cs
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ActividadPractica04\RepositoryDLL\obj\Debug\net8.0\RepositoryDLL.csproj.CoreCompileInputs.cache
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ActividadPractica04\RepositoryDLL\obj\Debug\net8.0\RepositoryDLL.sourcelink.json
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ActividadPractica04\RepositoryDLL\obj\Debug\net8.0\RepositoryDLL.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ActividadPractica04\RepositoryDLL\obj\Debug\net8.0\refint\RepositoryDLL.dll
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ActividadPractica04\RepositoryDLL\obj\Debug\net8.0\RepositoryDLL.pdb
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ActividadPractica04\RepositoryDLL\obj\Debug\net8.0\RepositoryDLL.genruntimeconfig.cache
+D:\Gabi\Usuarios\Facultad\2do Cuatrimestre\Programación II\Proyectos\Repositorio 1 Local\Programacion2\ActividadPractica04\RepositoryDLL\obj\Debug\net8.0\ref\RepositoryDLL.dll
