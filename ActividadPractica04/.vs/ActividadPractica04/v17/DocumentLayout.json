@@ -3,19 +3,35 @@
   "WorkspaceRootPath": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ActividadPractica04\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{28568B30-C633-4E14-AA29-215DDA3C0167}|ActividadPractica04\\ActividadPractica04.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ActividadPractica04\\actividadpractica04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28568B30-C633-4E14-AA29-215DDA3C0167}|ActividadPractica04\\ActividadPractica04.csproj|solutionrelative:actividadpractica04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DAD187-F80B-4AD9-87C1-6C0A7963A267}|RepositoryDLL\\RepositoryDLL.csproj|d:\\gabi\\usuarios\\facultad\\2do cuatrimestre\\programaci\u00F3n ii\\proyectos\\repositorio 1 local\\programacion2\\actividadpractica04\\repositorydll\\data\\models\\tdetallesturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DAD187-F80B-4AD9-87C1-6C0A7963A267}|RepositoryDLL\\RepositoryDLL.csproj|solutionrelative:repositorydll\\data\\models\\tdetallesturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DAD187-F80B-4AD9-87C1-6C0A7963A267}|RepositoryDLL\\RepositoryDLL.csproj|d:\\gabi\\usuarios\\facultad\\2do cuatrimestre\\programaci\u00F3n ii\\proyectos\\repositorio 1 local\\programacion2\\actividadpractica04\\repositorydll\\data\\models\\dbturnoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DAD187-F80B-4AD9-87C1-6C0A7963A267}|RepositoryDLL\\RepositoryDLL.csproj|solutionrelative:repositorydll\\data\\models\\dbturnoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DAD187-F80B-4AD9-87C1-6C0A7963A267}|RepositoryDLL\\RepositoryDLL.csproj|d:\\gabi\\usuarios\\facultad\\2do cuatrimestre\\programaci\u00F3n ii\\proyectos\\repositorio 1 local\\programacion2\\actividadpractica04\\repositorydll\\data\\models\\tservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DAD187-F80B-4AD9-87C1-6C0A7963A267}|RepositoryDLL\\RepositoryDLL.csproj|solutionrelative:repositorydll\\data\\models\\tservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DAD187-F80B-4AD9-87C1-6C0A7963A267}|RepositoryDLL\\RepositoryDLL.csproj|d:\\gabi\\usuarios\\facultad\\2do cuatrimestre\\programaci\u00F3n ii\\proyectos\\repositorio 1 local\\programacion2\\actividadpractica04\\repositorydll\\data\\models\\tturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DAD187-F80B-4AD9-87C1-6C0A7963A267}|RepositoryDLL\\RepositoryDLL.csproj|solutionrelative:repositorydll\\data\\models\\tturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E3DAD187-F80B-4AD9-87C1-6C0A7963A267}|RepositoryDLL\\RepositoryDLL.csproj|d:\\gabi\\usuarios\\facultad\\2do cuatrimestre\\programaci\u00F3n ii\\proyectos\\repositorio 1 local\\programacion2\\actividadpractica04\\repositorydll\\data\\repositories\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3DAD187-F80B-4AD9-87C1-6C0A7963A267}|RepositoryDLL\\RepositoryDLL.csproj|solutionrelative:repositorydll\\data\\repositories\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28568B30-C633-4E14-AA29-215DDA3C0167}|ActividadPractica04\\ActividadPractica04.csproj|d:\\gabi\\usuarios\\facultad\\2do cuatrimestre\\programaci\u00F3n ii\\proyectos\\repositorio 1 local\\programacion2\\actividadpractica04\\actividadpractica04\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28568B30-C633-4E14-AA29-215DDA3C0167}|ActividadPractica04\\ActividadPractica04.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ActividadPractica04\\actividadpractica04\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28568B30-C633-4E14-AA29-215DDA3C0167}|ActividadPractica04\\ActividadPractica04.csproj|solutionrelative:actividadpractica04\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28568B30-C633-4E14-AA29-215DDA3C0167}|ActividadPractica04\\ActividadPractica04.csproj|d:\\gabi\\usuarios\\facultad\\2do cuatrimestre\\programaci\u00F3n ii\\proyectos\\repositorio 1 local\\programacion2\\actividadpractica04\\actividadpractica04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28568B30-C633-4E14-AA29-215DDA3C0167}|ActividadPractica04\\ActividadPractica04.csproj|solutionrelative:actividadpractica04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3DAD187-F80B-4AD9-87C1-6C0A7963A267}|RepositoryDLL\\RepositoryDLL.csproj|d:\\gabi\\usuarios\\facultad\\2do cuatrimestre\\programaci\u00F3n ii\\proyectos\\repositorio 1 local\\programacion2\\actividadpractica04\\repositorydll\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3DAD187-F80B-4AD9-87C1-6C0A7963A267}|RepositoryDLL\\RepositoryDLL.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ActividadPractica04\\repositorydll\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3DAD187-F80B-4AD9-87C1-6C0A7963A267}|RepositoryDLL\\RepositoryDLL.csproj|solutionrelative:repositorydll\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,11 +42,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "DbTurnosContext.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ActividadPractica04\\RepositoryDLL\\Data\\Models\\DbTurnosContext.cs",
+              "RelativeDocumentMoniker": "RepositoryDLL\\Data\\Models\\DbTurnosContext.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ActividadPractica04\\RepositoryDLL\\Data\\Models\\DbTurnosContext.cs",
+              "RelativeToolTip": "RepositoryDLL\\Data\\Models\\DbTurnosContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T01:28:49.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TDetallesTurno.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ActividadPractica04\\RepositoryDLL\\Data\\Models\\TDetallesTurno.cs",
+              "RelativeDocumentMoniker": "RepositoryDLL\\Data\\Models\\TDetallesTurno.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ActividadPractica04\\RepositoryDLL\\Data\\Models\\TDetallesTurno.cs",
+              "RelativeToolTip": "RepositoryDLL\\Data\\Models\\TDetallesTurno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T01:28:48.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TServicio.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ActividadPractica04\\RepositoryDLL\\Data\\Models\\TServicio.cs",
+              "RelativeDocumentMoniker": "RepositoryDLL\\Data\\Models\\TServicio.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ActividadPractica04\\RepositoryDLL\\Data\\Models\\TServicio.cs",
+              "RelativeToolTip": "RepositoryDLL\\Data\\Models\\TServicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T01:28:44.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TTurno.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ActividadPractica04\\RepositoryDLL\\Data\\Models\\TTurno.cs",
+              "RelativeDocumentMoniker": "RepositoryDLL\\Data\\Models\\TTurno.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ActividadPractica04\\RepositoryDLL\\Data\\Models\\TTurno.cs",
+              "RelativeToolTip": "RepositoryDLL\\Data\\Models\\TTurno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T01:28:44.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ActividadPractica04\\ActividadPractica04\\Program.cs",
               "RelativeDocumentMoniker": "ActividadPractica04\\Program.cs",
@@ -43,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Service.cs",
               "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ActividadPractica04\\RepositoryDLL\\Services\\Service.cs",
               "RelativeDocumentMoniker": "RepositoryDLL\\Services\\Service.cs",
@@ -51,25 +119,24 @@
               "RelativeToolTip": "RepositoryDLL\\Services\\Service.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T02:10:16.281Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T02:10:16.281Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "ServiceRepository.cs",
               "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ActividadPractica04\\RepositoryDLL\\Data\\Repositories\\ServiceRepository.cs",
               "RelativeDocumentMoniker": "RepositoryDLL\\Data\\Repositories\\ServiceRepository.cs",
               "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ActividadPractica04\\RepositoryDLL\\Data\\Repositories\\ServiceRepository.cs",
               "RelativeToolTip": "RepositoryDLL\\Data\\Repositories\\ServiceRepository.cs",
-              "ViewState": "AQIAADsAAAAAAAAAAAAowFYAAAAIAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T01:27:50.662Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "ServiciosController.cs",
               "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Programacion2\\ActividadPractica04\\ActividadPractica04\\Controllers\\ServiciosController.cs",
               "RelativeDocumentMoniker": "ActividadPractica04\\Controllers\\ServiciosController.cs",
@@ -77,8 +144,7 @@
               "RelativeToolTip": "ActividadPractica04\\Controllers\\ServiciosController.cs",
               "ViewState": "AQIAAFUAAAAAAAAAAAAowGYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T01:19:28.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T01:19:28.732Z"
             }
           ]
         }

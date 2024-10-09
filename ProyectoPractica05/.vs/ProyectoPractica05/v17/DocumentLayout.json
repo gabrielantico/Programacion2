@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Problemas\\ProyectoPractica05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76D3E5FE-B82A-41EB-8C17-7F2D43543092}|RepositoryDLL\\RepositoryDLL.csproj|d:\\gabi\\usuarios\\facultad\\2do cuatrimestre\\programaci\u00F3n ii\\proyectos\\repositorio 1 local\\problemas\\proyectopractica05\\repositorydll\\data\\repositories\\turnrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D3E5FE-B82A-41EB-8C17-7F2D43543092}|RepositoryDLL\\RepositoryDLL.csproj|solutionrelative:repositorydll\\data\\repositories\\turnrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D00F2C-9D3F-47CE-8DA1-CB18B3F7A752}|ProyectoPractica05\\ProyectoPractica05.csproj|d:\\gabi\\usuarios\\facultad\\2do cuatrimestre\\programaci\u00F3n ii\\proyectos\\repositorio 1 local\\problemas\\proyectopractica05\\proyectopractica05\\controllers\\turncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D00F2C-9D3F-47CE-8DA1-CB18B3F7A752}|ProyectoPractica05\\ProyectoPractica05.csproj|solutionrelative:proyectopractica05\\controllers\\turncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D3E5FE-B82A-41EB-8C17-7F2D43543092}|RepositoryDLL\\RepositoryDLL.csproj|d:\\gabi\\usuarios\\facultad\\2do cuatrimestre\\programaci\u00F3n ii\\proyectos\\repositorio 1 local\\problemas\\proyectopractica05\\repositorydll\\business\\turnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D3E5FE-B82A-41EB-8C17-7F2D43543092}|RepositoryDLL\\RepositoryDLL.csproj|solutionrelative:repositorydll\\business\\turnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D00F2C-9D3F-47CE-8DA1-CB18B3F7A752}|ProyectoPractica05\\ProyectoPractica05.csproj|D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Problemas\\ProyectoPractica05\\proyectopractica05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D00F2C-9D3F-47CE-8DA1-CB18B3F7A752}|ProyectoPractica05\\ProyectoPractica05.csproj|solutionrelative:proyectopractica05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TurnController.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Problemas\\ProyectoPractica05\\ProyectoPractica05\\Controllers\\TurnController.cs",
+              "RelativeDocumentMoniker": "ProyectoPractica05\\Controllers\\TurnController.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Problemas\\ProyectoPractica05\\ProyectoPractica05\\Controllers\\TurnController.cs",
+              "RelativeToolTip": "ProyectoPractica05\\Controllers\\TurnController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T01:59:44.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TurnRepository.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Problemas\\ProyectoPractica05\\RepositoryDLL\\Data\\Repositories\\TurnRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryDLL\\Data\\Repositories\\TurnRepository.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Problemas\\ProyectoPractica05\\RepositoryDLL\\Data\\Repositories\\TurnRepository.cs",
+              "RelativeToolTip": "RepositoryDLL\\Data\\Repositories\\TurnRepository.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAIwFwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T23:55:59.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TurnManager.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Problemas\\ProyectoPractica05\\RepositoryDLL\\Business\\TurnManager.cs",
+              "RelativeDocumentMoniker": "RepositoryDLL\\Business\\TurnManager.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Problemas\\ProyectoPractica05\\RepositoryDLL\\Business\\TurnManager.cs",
+              "RelativeToolTip": "RepositoryDLL\\Business\\TurnManager.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA1wCIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T19:19:27.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Problemas\\ProyectoPractica05\\ProyectoPractica05\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoPractica05\\Program.cs",
+              "ToolTip": "D:\\Gabi\\Usuarios\\Facultad\\2do Cuatrimestre\\Programaci\u00F3n II\\Proyectos\\Repositorio 1 Local\\Problemas\\ProyectoPractica05\\ProyectoPractica05\\Program.cs",
+              "RelativeToolTip": "ProyectoPractica05\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T02:02:38.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
